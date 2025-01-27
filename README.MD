@@ -66,6 +66,3 @@ Utilizei os prompts dentro do link do `Notion` fornecido na parte de `Materiais`
 
 por [Eliza](https://github.com/Thaeliza)
 
-
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
