@@ -40,7 +40,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/) 
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Leonardo.Ai](https://leonardo.ai/)
-- [Canva] (https://www.canva.com/)
+- [Canva](https://www.canva.com/)
 
 ## ✨ Como foi feito ?
 
